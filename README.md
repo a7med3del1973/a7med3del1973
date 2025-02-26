@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
 <h2 align="center">Fresh Graduate | Java Backend Developer | Ex-Software Engineer Intern @Fawry</h2>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sameh1tarek&label=Profile%20views&color=0e75b6&style=flat" alt="sameh1tarek" /> 
-</p>
+
 
 - 🎓 Fresh Graduate from **Faculty of Computers and Information** at Menoufia University, Class of 2024.
 - 🌱 I’m Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
