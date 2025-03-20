@@ -3,7 +3,7 @@
 
 
 
-- 🎓 Fresh Graduate from **Faculty of Computers and Information** at Menoufia University, Class of 2024.
+- 🎓 Fresh Graduate from **Faculty of Computer Science and Information** at Menoufia University, Class of 2024.
 - 🌱 I’m Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
 - 💼 I’m open to **new job opportunities**.
 - 📫 You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
