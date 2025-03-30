@@ -8,6 +8,9 @@
 - 💼 I’m open to **new job opportunities**.
 - 📫 You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
 
+<h3 align="left">Open source contribution: </h3>
+- [Apache Fineract](https://github.com/apache/fineract/pulls?q=is%3Apr+author%3Aa7med3del1973+is%3Amerged)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/a7med3del1973/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
