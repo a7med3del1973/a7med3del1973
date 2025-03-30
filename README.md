@@ -8,7 +8,7 @@
 - 💼 I’m open to **new job opportunities**.
 - 📫 You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
 
-<h3 align="left">Open source contribution: </h3>
+### Open Source Contributions:
 - [Apache/Fineract](https://github.com/apache/fineract/pulls?q=is%3Apr+author%3Aa7med3del1973+is%3Amerged)
 
 <h3 align="left">Connect with me:</h3>
