@@ -28,3 +28,20 @@
         <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/>
     </a>
 </p>
+
+<br>
+
+## My Competitive Programming Profiles
+<p>
+    <a href="https://codeforces.com/profile/a7med3del1973" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Zeyad_Nasef" height="40" width="40" />
+    </a>
+    &emsp; 
+    <a href="https://leetcode.com/u/a7med3del1973/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Zeyad_Nasef/" height="35" width="30" />
+    </a>
+    &emsp; 
+    <a href="https://www.hackerrank.com/profile/a7med3del1973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Account" height="50" width="50" /></a>
+</p>
+
+<br>
