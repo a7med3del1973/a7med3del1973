@@ -39,9 +39,7 @@
     &emsp; 
     <a href="https://leetcode.com/u/a7med3del1973/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Zeyad_Nasef/" height="35" width="30" />
-    </a>
-    &emsp; 
-    <a href="https://www.hackerrank.com/profile/a7med3del1973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Account" height="50" width="50" /></a>
+    
 </p>
 
 <br>
