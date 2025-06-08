@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h2 align="center">Fresh Graduate | Java Backend Developer | Ex-Software Engineer Intern @Fawry</h2>
+<h2 align="center"> Java Backend Developer | Ex-Software Engineer Intern @Fawry</h2>
 
 
 
