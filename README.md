@@ -8,8 +8,12 @@
 -  I’m open to **new job opportunities**.
 -  You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
 
-### My Open Source Contributions:
-- [Apache/Fineract](https://github.com/apache/fineract/pulls?q=is%3Apr+author%3Aa7med3del1973+is%3Amerged)
+<h3>My Open Source Contributions</h3>
+<p>
+    <a href="https://github.com/apache/fineract/pulls?q=is%3Apr+author%3Aa7med3del1973+is%3Amerged" target="_blank">
+        <img src="https://img.shields.io/badge/Apache%20Fineract-Contributions-orange?style=for-the-badge&logo=apache" alt="Apache Fineract Contributions"/>
+    </a>
+</p>
 
 
 ## You can find me here, Let's Connect 🧡</h2>
