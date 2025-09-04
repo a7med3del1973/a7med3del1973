@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
 <h2 align="center"> Java Backend Developer | Ex-Software Engineer Intern @Fawry</h2>
 
-
-
 -  Fresh Graduate from **Faculty of Computer Science and Information** at Menoufia University, Class of 2024.
--  I’m Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
--  I’m open to **new job opportunities**.
+-  I'm Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
+-  I'm open to **new job opportunities**.
 -  You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
 
 <h3>My Open Source Contributions</h3>
@@ -13,10 +11,13 @@
     <a href="https://github.com/apache/fineract/pulls?q=is%3Apr+author%3Aa7med3del1973+is%3Amerged" target="_blank">
         <img src="https://img.shields.io/badge/Apache%20Fineract-Contributions-orange?style=for-the-badge&logo=apache" alt="Apache Fineract Contributions"/>
     </a>
+    <br>
+    <a href="https://github.com/openMF/mifosx-platform/pulls?q=is%3Apr+author%3Aa7med3del1973+is%3Amerged" target="_blank">
+        <img src="https://img.shields.io/badge/mifosx--platform-Contributions-blue?style=for-the-badge&logo=apache" alt="Mifos Contributions"/>
+    </a>
 </p>
 
-
-## You can find me here, Let's Connect 🧡</h2>
+## You can find me here, Let's Connect 🧡
 
 <p>
     <a href="https://www.linkedin.com/in/a7med3del1973/">
@@ -43,7 +44,5 @@
     &emsp; 
     <a href="https://leetcode.com/u/a7med3del1973/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Zeyad_Nasef/" height="35" width="30" />
-    
+    </a>
 </p>
-
-<br>
