@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h2 align="center"> Java Backend Developer | Ex-Software Engineer Intern @Fawry</h2>
+<h2 align="center"> Java Backend Developer | Ex-Software Engineer Intern @Fawry & @Elyvium</h2>
 
 -  Fresh Graduate from **Faculty of Computer Science and Information** at Menoufia University, Class of 2024.
 -  I'm Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
