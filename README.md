@@ -3,7 +3,7 @@
 
 -  Fresh Graduate from **Faculty of Computer Science and Information** at Menoufia University, Class of 2024.
 -  I'm Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
--  I'm open to **new job opportunities**.
+-  I'm open to **new job opportunities**. [View my resume](https://drive.google.com/file/d/1oRxVT6QXw7-nn4TJv8W1gnhEvGamrtUH/view?usp=drive_link)
 -  You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
 
 <h3>My Open Source Contributions</h3>
