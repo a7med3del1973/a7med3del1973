@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
 <h2 align="center"> Software Engineer @Elyvium | Ex-intern @Fawry</h2>
 
--  Fresh Graduate from **Faculty of Computer Science and Information** at Menoufia University, Class of 2024.
+-  Former **Software Engineering Intern at Fawry** (2024)
 -  I'm Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
 -  I'm open to **new job opportunities**. [View my resume](https://drive.google.com/file/d/1oRxVT6QXw7-nn4TJv8W1gnhEvGamrtUH/view?usp=drive_link)
 -  You can reach me at [a7med3del1973@gmail.com](mailto:a7med3del1973@gmail.com)
