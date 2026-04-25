@@ -22,12 +22,6 @@
     <a href="https://www.linkedin.com/in/a7med3del1973/">
         <img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://t.me/a7med3del1973">
-        <img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100009868305030">
-        <img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/>
-    </a>
     <a href="mailto:a7med3del1973@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/>
     </a>
