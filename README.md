@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h2 align="center"> Software Engineer @Elyvium | Ex-intern @Fawry</h2>
+<h2 align="center"> Software Engineer @MTS Enterprise | Ex-intern @Fawry</h2>
 
 -  Former **Software Engineering Intern at Fawry** (2024)
 -  I'm Currently focusing on **Backend Engineering**, specializing in **Java Spring Boot**.
