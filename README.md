@@ -32,10 +32,10 @@
 ## My Competitive Programming Profiles
 <p>
     <a href="https://codeforces.com/profile/a7med3del1973" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Zeyad_Nasef" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/a7med3del1973" height="40" width="40" />
     </a>
     &emsp; 
     <a href="https://leetcode.com/u/a7med3del1973/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Zeyad_Nasef/" height="35" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/a7med3del1973/" height="35" width="30" />
     </a>
 </p>
